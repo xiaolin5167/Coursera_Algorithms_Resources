@@ -14,7 +14,7 @@ https://www.coursera.org/learn/algorithms-part2/home/welcome
 
 课程勘误表(!!!ppt或者视频讲师口误都有勘误) 请查看网站左侧栏--Resources--Errata
 
-另（！！），国内有搬运视频，有中文字幕，但是有些是机翻 比如：B站 -- 普林斯顿大学-算法课程 等  
+另(!!)，国内有搬运视频，有中文字幕，但是有些是机翻 比如：B站 -- 普林斯顿大学-算法课程 等  
 
 (另有自己搞的视频课程翻译整理,还没搞完...最近转看NLP去了,这个笔记整理仅供参考： https://segmentfault.com/blog/xiaoalgo)
 
