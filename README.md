@@ -7,7 +7,7 @@ PPT是全英版，内涵课程使用教材英文版本 -- 算法(第四版)
 https://algs4.cs.princeton.edu/home/
 
 教材会看得比较吃力，如果可以科学上网，英语水平不错，建议前往以下网址学习：  
-https://www.coursera.org/learn/algorithms-part1/home/welcome 
+https://www.coursera.org/learn/algorithms-part1/home/welcome  
 https://www.coursera.org/learn/algorithms-part2/home/welcome
 
 看视频需要科学上网，但是查看资源不需要
