@@ -18,4 +18,6 @@ https://www.coursera.org/learn/algorithms-part2/home/welcome
 
 (另有自己搞的视频课程翻译整理,还没搞完...最近转看NLP去了,这个笔记整理仅供参考： https://segmentfault.com/blog/xiaoalgo)
 
-这门课有点久了，但是很经典，坚持学完一定收获不小，加油哟
+这门课有点久了，但是很经典，坚持学完一定收获不小，加油哟  
+另外普林斯顿大学算法课的网站(19年)：  
+https://www.cs.princeton.edu/courses/archive/spring19/cos226/lectures.php  
